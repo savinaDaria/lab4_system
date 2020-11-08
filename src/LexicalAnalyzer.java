@@ -75,7 +75,7 @@ public class LexicalAnalyzer {
 
         if (input.length() > 0) {
 
-            errorMessage = " ---("+input.charAt(0) + ")Κ³νεφό τΰιλσ ";
+            errorMessage = " ------ Κ³νεφό τΰιλσ ------";
         }
     }
 
